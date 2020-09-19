@@ -11,6 +11,7 @@ export const storageTypeMap = {
   aliyun: '阿里云 OSS',
   upyun: '又拍云',
   qiniu: '七牛云',
+  alibaba: '阿里巴巴',
 };
 
 export const languageTypeMap = {
